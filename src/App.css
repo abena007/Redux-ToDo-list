@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.Todo{display: flex; gap: 10px;background-color: rgb(255, 255, 255);color: black ;width: 60vh;margin: 10px;border-radius: 15px;justify-content:space-between;padding: 8px;border-style:solid ;border-width: 2px;}
+.ToDoList{background-color:#6a7489;min-height: 50vh;border-radius:20px;border-style: dashed;border-color: rgb(255, 255, 255); min-width: 63vh ; ;}
+
+.input{min-width: 50vh }
